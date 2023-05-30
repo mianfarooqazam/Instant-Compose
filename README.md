@@ -42,7 +42,7 @@ Note: Make sure to keep your API key secure and avoid sharing it publicly.
 
 ## Feedback and Support
 
-If you encounter any issues, have suggestions, or need support, please feel free to [create an issue](https://github.com/your-username/your-repo-name/issues) in the GitHub repository. We appreciate your feedback and will do our best to address any concerns.
+If you encounter any issues, have suggestions, or need support, please feel free to [create an issue](https://github.com/mianfarooqazam/instant-compose-extension/issues) in the GitHub repository. We appreciate your feedback and will do our best to address any concerns.
 
 ## License
 
