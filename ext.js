@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     generateBtn.innerText = 'Generating...';
     resultTextarea.value = '';
 
-    const apiKey = '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'; 
+    const apiKey = 'OPEN_API_KEY'; 
     const url = 'https://api.openai.com/v1/chat/completions';
 
     fetch(url, {
